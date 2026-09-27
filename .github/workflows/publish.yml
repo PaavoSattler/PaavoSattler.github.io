@@ -29,6 +29,10 @@ jobs:
       - name: Render website
         run: quarto render
 
+      - name: Fix sitemap namespace
+        run: |
+          sed -i 's|<urlset>|<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">|' _site/sitemap.xml
+
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
 
