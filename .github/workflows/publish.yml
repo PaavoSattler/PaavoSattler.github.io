@@ -29,9 +29,29 @@ jobs:
       - name: Render website
         run: quarto render
 
-      - name: Fix sitemap namespace
+           - name: Fix sitemap namespace
         run: |
-          sed -i 's|<urlset>|<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">|' _site/sitemap.xml
+          python - <<'PY'
+          from pathlib import Path
+
+          path = Path("_site/sitemap.xml")
+          text = path.read_text(encoding="utf-8")
+
+          namespace = 'xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"'
+
+          if namespace not in text:
+              text = text.replace(
+                  "<urlset",
+                  '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"',
+                  1
+              )
+              path.write_text(text, encoding="utf-8")
+
+          if namespace not in path.read_text(encoding="utf-8"):
+              raise RuntimeError("Sitemap namespace could not be added")
+
+          print(path.read_text(encoding="utf-8")[:300])
+          PY
 
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
