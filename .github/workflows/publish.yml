@@ -29,7 +29,7 @@ jobs:
       - name: Render website
         run: quarto render
 
-           - name: Fix sitemap namespace
+      - name: Fix sitemap namespace
         run: |
           python - <<'PY'
           from pathlib import Path
