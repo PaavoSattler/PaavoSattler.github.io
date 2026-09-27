@@ -1,0 +1,89 @@
+---
+title: "Curriculum Vitae"
+description: "Academic curriculum vitae of Paavo Sattler."
+image: images/og-card.png
+---
+
+## Paavo Sattler
+
+**Researcher in Statistics**  
+TU Dortmund University · RWTH Aachen University  
+[paavo.sattler@tu-dortmund.de](mailto:paavo.sattler@tu-dortmund.de) · [ORCID](https://orcid.org/0000-0001-8731-0893) · [Google Scholar](https://scholar.google.de/citations?user=MXSrCMkAAAAJ) · [GitHub](https://github.com/PaavoSattler)
+
+## Research Interests
+
+- Multivariate and high-dimensional statistical inference
+- Nonparametric and resampling-based inference
+- Structured, multiple, directional, and one-sided hypotheses
+- Covariance and correlation structures
+- Statistical computing and methodological software
+
+## Academic Positions
+
+**Since September 2024 — Researcher, TU Dortmund University**  
+Department of Statistics
+
+**Since October 2025 — Researcher, RWTH Aachen University**  
+Institute of Statistics and Economic Mathematics
+
+**April–August 2024 — Interim Professorship in Mathematical Statistics**  
+Heidelberg University, Faculty of Mathematics and Computer Science
+
+**December 2021–March 2024 — Researcher, TU Dortmund University**
+
+**March 2019–October 2021 — Doctoral Researcher, TU Dortmund University**
+
+**September 2016–February 2019 — Doctoral Researcher, Ulm University**
+
+## Education
+
+**2021 — Dr. rer. nat. in Statistics, TU Dortmund University**  
+*Inference for multivariate and high-dimensional data in heterogeneous designs*  
+*magna cum laude*
+
+**2016 — M.Sc. in Business Mathematics, Ulm University**  
+*High-Dimensional Repeated Measures Analysis: Asymptotics and Multiple Samples*
+
+**2014 — B.Sc. in Mathematics, University of Stuttgart**
+
+## Awards & Funding
+
+**2026 — DFG Research Grant**  
+*Überlegenheit statt bloßer Ungleichheit: Multivariate Inferenz für gerichtete Effekte in der Biostatistik*  
+(*Superiority rather than mere inequality: Multivariate inference for directional effects in biostatistics*)  
+Principal investigator · 36 months · planned start July 2027
+
+**2018 — Joachim Hartung Prize**  
+Awarded for the presentation *Inference for high-dimensional split-plot designs: A unified approach for small to large numbers of factor levels*
+
+## Software
+
+- **CovCorTest** — statistical tests for covariance and correlation matrices and their structures. [CRAN](https://CRAN.R-project.org/package=CovCorTest)
+- **hdrm** — high-dimensional repeated-measures inference. CRAN link to be added after release.
+- **HypoShrink** — companion hypothesis matrices and computationally efficient hypothesis representations. [GitHub](https://github.com/PaavoSattler/HypoShrink) · [DOI](https://doi.org/10.5281/zenodo.17214498)
+
+## Selected Academic Service & Activities
+
+- 2026 — Co-organization, International Workshop *Multivariate and Functional Data Analysis in Biostatistics*, Aachen
+- 2026 — Organizer, Invited Session *Multiple Tests Beyond Parametric Assumptions*, CEN, Warsaw
+- 2024 — Organizer, Session *Inference in the Life and Social Sciences for Small Sample Sizes with Little or No Assumptions*, Bernoulli–IMS 11th World Congress, Bochum
+- 2024 — Co-organization, Learning Session *Covariate Adjustment in Quantile Regression*
+- 2022 — Lecturer, Summer School *Resampling*, German Region of the International Biometric Society, Strobl
+- Spokesperson of the Working Group **Nonparametric Methods**, German Region of the International Biometric Society
+- Reviewer for international statistical journals
+
+## Teaching & Supervision
+
+Selected teaching includes Mathematics of Data Science, Six Sigma Methods, Introduction to Probability Theory and Statistics, Multivariate Probability and Statistics, Reading Course in Statistical Inference, and Nonparametric Statistics.
+
+Since 2024, co-supervision of a PhD project on semi- and nonparametric analysis of covariance. Previous supervision includes bachelor theses on high-dimensional repeated-measures software, one-sided hypotheses using quadratic forms, and shrinkage estimators for high-dimensional quadratic-form methods.
+
+## Publications
+
+See the [complete publication list](publications.qmd) and [Google Scholar](https://scholar.google.de/citations?user=MXSrCMkAAAAJ).
+
+<!--
+This web CV deliberately excludes private address, private phone number,
+date of birth, place of birth, and school information.
+A separate PDF can be generated later from a dedicated public CV source.
+-->

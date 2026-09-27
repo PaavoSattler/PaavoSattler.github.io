@@ -1,0 +1,26 @@
+---
+title: "Privacy"
+description: "Privacy information for paavosattler.github.io."
+image: images/og-card.png
+---
+
+This page is prepared as a **pre-launch template** and should be reviewed before publication.
+
+## Website analytics
+
+This website is intended to use **GoatCounter** for privacy-oriented, aggregate web analytics. The purpose is to understand which pages and research/software links are useful to visitors, including page visits and selected outbound-link events (for example DOI, arXiv, CRAN, GitHub, CV, and contact links).
+
+GoatCounter states that its hosted analytics do not store IP addresses or full user-agent strings in its database, do not use cookies or localStorage for visitor tracking, and primarily store aggregate statistics. The final wording of this notice should be checked against the exact GoatCounter settings used at launch.
+
+## External links
+
+This website links to external services such as Google Scholar, ORCID, GitHub, arXiv, CRAN, DOI resolvers, TU Dortmund University, and RWTH Aachen University. Following an external link is subject to the privacy practices of the destination service.
+
+## Contact
+
+For questions about this website, contact:
+
+**Paavo Sattler**  
+[paavo.sattler@tu-dortmund.de](mailto:paavo.sattler@tu-dortmund.de)
+
+> **Pre-launch note:** This text is a technical/content preparation, not legal advice. Review the final privacy notice once the hosting and analytics configuration is fixed.

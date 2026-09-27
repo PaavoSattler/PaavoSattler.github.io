@@ -1,0 +1,89 @@
+---
+title: "Publications"
+description: "Publications and preprints by Paavo Sattler."
+image: images/og-card.png
+---
+
+Publications and preprints on multivariate and high-dimensional inference, nonparametric methods, structured hypotheses, resampling, and statistical computing.
+
+[Google Scholar](https://scholar.google.de/citations?user=MXSrCMkAAAAJ){data-goatcounter-click="publications-google-scholar"} ·
+[ORCID](https://orcid.org/0000-0001-8731-0893){data-goatcounter-click="publications-orcid"}
+
+## Selected Publications
+
+### Quadratic form based multiple contrast tests for comparison of group means
+**Paavo Sattler**, Markus Pauly, Merle Munko. *Journal of Statistical Planning and Inference*, 2026.  
+Develops quadratic-form-based multiple contrast procedures for simultaneous inference on comparisons between group means.  
+[DOI](https://doi.org/10.1016/j.jspi.2026.106414){data-goatcounter-click="doi-mct-2026-publications"} · [arXiv](https://arxiv.org/abs/2411.10121){data-goatcounter-click="arxiv-mct-2026-publications"}
+
+### Testing for patterns and structures in covariance and correlation matrices
+**Paavo Sattler**, Dennis Dobler. *Journal of Multivariate Analysis*, 2026.  
+Develops inference procedures for testing structured patterns and restrictions in covariance and correlation matrices.  
+[DOI](https://doi.org/10.1016/j.jmva.2025.105517){data-goatcounter-click="doi-patterns-2026-publications"} · [arXiv](https://arxiv.org/abs/2310.11799){data-goatcounter-click="arxiv-patterns-2026-publications"}
+
+### Choice of the hypothesis matrix for using the Anova-type-statistic
+**Paavo Sattler**, Manuel Rosenbaum. *Statistics & Probability Letters*, 2025.  
+Studies how the choice of hypothesis representation affects ANOVA-type inference and can be used to reduce computational complexity and runtime.  
+[DOI](https://doi.org/10.1016/j.spl.2025.110356){data-goatcounter-click="doi-ats-2025-publications"} · [arXiv](https://arxiv.org/abs/2409.12592){data-goatcounter-click="arxiv-ats-2025-publications"}
+
+### Testing hypotheses about correlation matrices in general MANOVA designs
+**Paavo Sattler**, Markus Pauly. *TEST*, 2023.  
+Provides methodology for testing general hypotheses about correlation matrices in heterogeneous multivariate designs.  
+[DOI](https://doi.org/10.1007/s11749-023-00906-6){data-goatcounter-click="doi-correlation-2023-publications"} · [arXiv](https://arxiv.org/abs/2209.04380){data-goatcounter-click="arxiv-correlation-2023-publications"}
+
+### Inference for high-dimensional split-plot-designs: A unified approach for small to large numbers of factor levels
+**Paavo Sattler**, Markus Pauly. *Electronic Journal of Statistics*, 2018.  
+Provides a unified framework for inference in high-dimensional split-plot designs across different dimensional regimes.  
+[DOI](https://doi.org/10.1214/18-EJS1465){data-goatcounter-click="doi-splitplot-2018-publications"} · [arXiv](https://arxiv.org/abs/1706.02592){data-goatcounter-click="arxiv-splitplot-2018-publications"}
+
+## All Publications
+
+### 2026
+
+- **Paavo Sattler**, Somesh Kumar. *A unified approach to inference in high-dimensional repeated measure designs with group-specific dimensions*. **TEST**. [DOI](https://doi.org/10.1007/s11749-026-01018-7)
+- **Paavo Sattler**, Markus Pauly, Merle Munko. *Quadratic form based multiple contrast tests for comparison of group means*. **Journal of Statistical Planning and Inference**, 106414. [DOI](https://doi.org/10.1016/j.jspi.2026.106414)
+- **Paavo Sattler**, Dennis Dobler. *Testing for patterns and structures in covariance and correlation matrices*. **Journal of Multivariate Analysis**, 211, 105517. [DOI](https://doi.org/10.1016/j.jmva.2025.105517)
+- M. Baumeister, K. E. Thiel, L. Matits, G. Zimmermann, M. Pauly, **Paavo Sattler**. *Multivariate and multiple contrast testing in general covariate-adjusted factorial designs*. **Journal of Multivariate Analysis**, 214, 105617. [DOI](https://doi.org/10.1016/j.jmva.2026.105617)
+- K. E. Thiel, **Paavo Sattler**, A. C. Bathke, G. Zimmermann. *Resampling NANCOVA: Nonparametric analysis of covariance in small samples*. **Computational Statistics & Data Analysis**, 215, 108290. [DOI](https://doi.org/10.1016/j.csda.2025.108290)
+
+### 2025
+
+- **Paavo Sattler**, Manuel Rosenbaum. *Choice of the hypothesis matrix for using the Anova-type-statistic*. **Statistics & Probability Letters**, 219, 110356. [DOI](https://doi.org/10.1016/j.spl.2025.110356)
+- S. Basak, **Paavo Sattler**, S. Kumar. *Asymptotic Accuracy of a Bootstrap Test of Homogeneity in Fisher–von Mises–Langevin Populations*. In *Directional and Multivariate Statistics: A Volume in Honour of Ashis SenGupta*, Springer, pp. 177–184. [DOI](https://doi.org/10.1007/978-981-96-2004-3_10)
+
+### 2024
+
+- **Paavo Sattler**, G. Zimmermann. *Choice of the hypothesis matrix for using the Wald-type-statistic*. **Statistics & Probability Letters**, 208, 110038. [DOI](https://doi.org/10.1016/j.spl.2024.110038)
+- S. Basak, **Paavo Sattler**, S. Kumar. *Inference on the common mean direction of several Fisher-von Mises-Langevin populations with unknown concentration parameters*. **Statistics**, 58(5), 1067–1091. [DOI](https://doi.org/10.1080/02331888.2024.2391416)
+
+### 2023
+
+- **Paavo Sattler**, Markus Pauly. *Testing hypotheses about correlation matrices in general MANOVA designs*. **TEST**, 33(2). [DOI](https://doi.org/10.1007/s11749-023-00906-6)
+- A. Mondal, **Paavo Sattler**, S. Kumar. *Testing against ordered alternatives in a two-way model without interaction under heteroscedasticity*. **Journal of Multivariate Analysis**, 196, 105177. [DOI](https://doi.org/10.1016/j.jmva.2023.105177)
+- A. Mondal, **Paavo Sattler**, S. Kumar. *Testing for trend in two-way crossed effects model under heteroscedasticity*. **TEST**, 32(4). [DOI](https://doi.org/10.1007/s11749-023-00879-6)
+
+### 2022
+
+- **Paavo Sattler**, A. C. Bathke, Markus Pauly. *Testing hypotheses about covariance matrices in general MANOVA designs*. **Journal of Statistical Planning and Inference**, 219, 134–146. [DOI](https://doi.org/10.1016/j.jspi.2021.12.001)
+- K. Rubarth, **Paavo Sattler**, H. G. Zimmermann, F. Konietschke. *Estimation and testing of Wilcoxon-Mann-Whitney effects in factorial clustered data designs*. **Symmetry**, 14(2). [DOI](https://doi.org/10.3390/sym14020244)
+
+### 2021
+
+- **Paavo Sattler**. *A comprehensive treatment of quadratic-form-based inference in repeated measures designs under diverse asymptotics*. **Electronic Journal of Statistics**, 15(1), 3611–3634. [DOI](https://doi.org/10.1214/21-EJS1865)
+
+### 2018
+
+- **Paavo Sattler**, Markus Pauly. *Inference for high-dimensional split-plot-designs: A unified approach for small to large numbers of factor levels*. **Electronic Journal of Statistics**, 12(2), 2743–2805. [DOI](https://doi.org/10.1214/18-EJS1465)
+
+## Preprints
+
+- Dennis Dobler, Jörg-Tobias Kuhn, Lubna Amro, **Paavo Sattler** (2026). *Generalized multivariate Mann-Whitney-\(U\) tests and confidence regions for relative effects under random missingness*. [arXiv:2609.07435](https://arxiv.org/abs/2609.07435)
+- Merle Munko, **Paavo Sattler** (2026). *Covariance Correction for Permutation Statistics in Multiple Testing Problems*. [arXiv:2604.06915](https://arxiv.org/abs/2604.06915)
+- **Paavo Sattler**, Svenja Jedhoff (2025). *Testing hypotheses regarding covariance and correlation matrices with the R package CovCorTest*. [arXiv:2507.03406](https://arxiv.org/abs/2507.03406)
+- **Paavo Sattler**, N. Hichert (2025). *Inference for high dimensional repeated measure designs with the R package hdrm*. [arXiv:2512.17478](https://arxiv.org/abs/2512.17478)
+
+<!--
+The bibliography and publication-meta files in /data are prepared for a later automation pass.
+The visible list is intentionally explicit in this first starter build so that the site renders
+without additional R/Python dependencies.
+-->

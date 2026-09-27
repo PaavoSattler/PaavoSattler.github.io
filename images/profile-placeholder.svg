@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Profile image placeholder</title>
+  <desc id="desc">A dark violet PS monogram on a soft violet background.</desc>
+  <rect width="800" height="1000" rx="28" fill="#F2ECF5"/>
+  <circle cx="400" cy="420" r="170" fill="#E7DDEB"/>
+  <text x="400" y="455" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="150" font-weight="700" fill="#3B214F">PS</text>
+  <text x="400" y="735" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="34" fill="#6D6870">profile photo</text>
+</svg>

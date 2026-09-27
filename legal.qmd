@@ -1,0 +1,25 @@
+---
+title: "Legal Notice"
+description: "Legal notice for paavosattler.github.io."
+image: images/og-card.png
+---
+
+This page is prepared as a **pre-launch template** and should be reviewed before publication.
+
+## Contact
+
+**Paavo Sattler**  
+Department of Statistics  
+TU Dortmund University  
+Vogelpothsweg 87  
+44227 Dortmund, Germany
+
+Email: [paavo.sattler@tu-dortmund.de](mailto:paavo.sattler@tu-dortmund.de)
+
+Institutional profile: [TU Dortmund University](https://msind.statistik.tu-dortmund.de/professur/team/paavo-sattler/)
+
+## Responsibility for content
+
+The website presents personal academic information, research interests, publications, software, and collaboration interests. External websites are linked for convenience; responsibility for their content remains with the respective providers.
+
+> **Pre-launch note:** Confirm whether additional information is legally required for the final public site. This template intentionally uses the publicly listed university office address rather than private contact data.

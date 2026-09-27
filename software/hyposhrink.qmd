@@ -1,0 +1,35 @@
+---
+title: "HypoShrink"
+description: "R package for simplifying linear hypotheses for efficient quadratic-form-based inference."
+---
+
+## Simplifying Linear Hypotheses for Efficient Inference
+
+Linear hypotheses can often be represented by different hypothesis matrices even when they describe the same underlying null hypothesis. These representations may differ in size, computational cost, and their interaction with quadratic-form-based procedures.
+
+**HypoShrink** provides tools for constructing and comparing simplified companion hypotheses. The package is designed to reduce redundant hypothesis representations and to investigate potential computational savings.
+
+## What can HypoShrink be used for?
+
+- constructing simplified companion hypotheses
+- reducing redundant linear hypothesis representations
+- comparing alternative hypothesis formulations
+- evaluating dimension-reduction potential
+- improving efficiency in simulation and resampling settings
+
+## Installation
+
+```r
+install.packages("devtools")
+devtools::install_github("PaavoSattler/HypoShrink")
+```
+
+## Links
+
+[GitHub](https://github.com/PaavoSattler/HypoShrink){data-goatcounter-click="hyposhrink-github-detail"} ·
+[Zenodo DOI](https://doi.org/10.5281/zenodo.17214498){data-goatcounter-click="hyposhrink-doi-detail"}
+
+## Related Research
+
+- Sattler & Rosenbaum (2025), *Choice of the hypothesis matrix for using the Anova-type-statistic*
+- Sattler & Zimmermann (2024), *Choice of the hypothesis matrix for using the Wald-type-statistic*

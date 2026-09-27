@@ -1,0 +1,35 @@
+---
+title: "CovCorTest"
+description: "R package for inference on covariance and correlation matrices and structures."
+---
+
+## Inference for Covariance and Correlation Structures
+
+Covariance and correlation structures describe how multiple outcomes vary and relate to each other. In many applications, the scientific question therefore concerns not only differences in means, but also whether covariance or correlation matrices satisfy particular relationships or structural constraints.
+
+**CovCorTest** provides R implementations of inference procedures for such hypotheses in general multivariate designs. The package covers comparisons between groups as well as tests for specified covariance and correlation structures and patterns.
+
+## What can CovCorTest be used for?
+
+- comparisons of covariance or correlation matrices between groups
+- testing hypotheses about selected matrix entries
+- testing specified covariance or correlation structures
+- testing structural patterns and restrictions
+
+## Installation
+
+```r
+install.packages("CovCorTest")
+```
+
+## Links
+
+[CRAN](https://CRAN.R-project.org/package=CovCorTest){data-goatcounter-click="covcortest-cran-detail"} ·
+[GitHub](https://github.com/sjedhoff/CovCorTest){data-goatcounter-click="covcortest-github-detail"}
+
+## Related Research
+
+- Sattler, Bathke & Pauly (2022), *Testing hypotheses about covariance matrices in general MANOVA designs*
+- Sattler & Pauly (2023), *Testing hypotheses about correlation matrices in general MANOVA designs*
+- Sattler & Dobler (2026), *Testing for patterns and structures in covariance and correlation matrices*
+- Sattler & Jedhoff, *Testing hypotheses regarding covariance and correlation matrices with the R package CovCorTest*

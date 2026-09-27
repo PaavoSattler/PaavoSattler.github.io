@@ -1,0 +1,9 @@
+_site/
+.quarto/
+.Rproj.user/
+.DS_Store
+Thumbs.db
+*.Rproj
+
+/.quarto/
+**/*.quarto_ipynb

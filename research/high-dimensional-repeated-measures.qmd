@@ -1,0 +1,15 @@
+---
+title: "High-Dimensional Repeated Measures"
+description: "Research on high-dimensional repeated-measures and split-plot designs."
+---
+
+I work on statistical inference for high-dimensional repeated-measures and split-plot designs, including settings with complex dependence structures and dimensions that may be large relative to sample size.
+
+## Related Work
+
+- Sattler & Pauly (2018), *Inference for high-dimensional split-plot-designs: A unified approach for small to large numbers of factor levels*
+- Sattler (2021), *A comprehensive treatment of quadratic-form-based inference in repeated measures designs under diverse asymptotics*
+- Sattler & Kumar (2026), *A unified approach to inference in high-dimensional repeated measure designs with group-specific dimensions*
+- [hdrm](../software/hdrm.qmd)
+
+The group-specific-dimension methodology is part of the research record but is not presented as a current `hdrm` package feature.

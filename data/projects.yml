@@ -1,0 +1,17 @@
+directional-inference:
+  title: "Directional & One-Sided Inference"
+  public_detail: "moderate"
+  funded: true
+
+randomization-missing:
+  title: "Randomization-Based Inference with Missing Data"
+  public_detail: "preprint"
+  arxiv: "https://arxiv.org/abs/2609.07435"
+
+combined-parameters:
+  title: "Combined Parameters"
+  public_detail: "minimal"
+
+covariate-adjustment:
+  title: "Covariate Adjustment for Nonparametric Effects"
+  public_detail: "minimal"

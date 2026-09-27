@@ -1,0 +1,69 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - index.qmd
+    - research.qmd
+    - publications.qmd
+    - software.qmd
+    - collaboration.qmd
+    - about.qmd
+    - cv.qmd
+    - privacy.qmd
+    - legal.qmd
+    - 404.qmd
+    - research/*.qmd
+    - software/*.qmd
+
+lang: en
+
+website:
+  title: "Paavo Sattler"
+  site-url: "https://paavosattler.github.io"
+  description: "Academic website of Paavo Sattler, researcher in statistics."
+  navbar:
+    pinned: true
+    left:
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: software.qmd
+        text: Software
+      - href: collaboration.qmd
+        text: Collaboration
+      - href: about.qmd
+        text: About
+  page-footer:
+    left: "© Paavo Sattler"
+    center: "TU Dortmund University · RWTH Aachen University"
+    right:
+      - text: "Privacy"
+        href: privacy.qmd
+      - text: "Legal"
+        href: legal.qmd
+      - text: "Email"
+        href: "mailto:paavo.sattler@tu-dortmund.de"
+      - text: "GitHub"
+        href: "https://github.com/PaavoSattler"
+  open-graph: true
+  twitter-card: true
+  search: false
+  back-to-top-navigation: true
+  favicon: images/favicon.svg
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles/custom.scss
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    include-in-header:
+      - includes/person-schema.html
+      - includes/analytics.html
+      - includes/seo.html
+
+execute:
+  freeze: auto

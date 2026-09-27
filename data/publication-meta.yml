@@ -1,0 +1,28 @@
+sattler-pauly-munko-2026:
+  featured: true
+  topics: [multiple-contrasts, directional-inference]
+  teaser: "Develops quadratic-form-based multiple contrast procedures for simultaneous inference on comparisons between group means."
+
+sattler-dobler-2026:
+  featured: true
+  topics: [covariance-correlation]
+  software: [CovCorTest]
+  teaser: "Develops inference procedures for testing structured patterns and restrictions in covariance and correlation matrices."
+
+sattler-rosenbaum-2025:
+  featured: true
+  topics: [hypothesis-representations, directional-inference]
+  software: [HypoShrink]
+  teaser: "Studies how the choice of hypothesis representation affects ANOVA-type inference and can be used to reduce computational complexity and runtime."
+
+sattler-pauly-2023:
+  featured: true
+  topics: [covariance-correlation]
+  software: [CovCorTest]
+  teaser: "Provides methodology for testing general hypotheses about correlation matrices in heterogeneous multivariate designs."
+
+sattler-pauly-2018:
+  featured: true
+  topics: [high-dimensional-repeated-measures]
+  software: [hdrm]
+  teaser: "Provides a unified framework for inference in high-dimensional split-plot designs across different dimensional regimes."

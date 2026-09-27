@@ -1,0 +1,33 @@
+---
+title: "Collaboration"
+description: "Research collaboration interests of Paavo Sattler."
+image: images/og-card.png
+---
+
+I am interested in research collaborations that connect statistical methodology with substantive scientific problems and create opportunities to apply, adapt, or further develop existing methods.
+
+::: {.collab-primary}
+## Applications and Extensions of Methods & Software
+
+I am particularly interested in projects where methods or software from my previous work provide a useful starting point for an existing statistical problem. This may involve direct application, but also targeted adaptations or methodological extensions when the original framework does not fully match the problem at hand. Such collaborations can support substantive research while also revealing new questions and opportunities for further methodological development.
+:::
+
+::: {.collab-grid}
+::: {.collab-card}
+## Integration into Broader Methodological Frameworks
+
+I am also interested in collaborations that place individual methods, software packages, or research ideas within a broader methodological or scientific context. This may involve integrating existing approaches into larger frameworks, combining them with other methods, or embedding them into more comprehensive software and analysis workflows.
+:::
+
+::: {.collab-card}
+## Methodological Collaboration
+
+More generally, I am open to research collaborations in areas closely related to my methodological interests, particularly when statistical questions form an integral part of the scientific problem and benefit from a deeper methodological perspective.
+:::
+:::
+
+## Contact
+
+If you see a connection between your project and my research, feel free to get in touch.
+
+[paavo.sattler@tu-dortmund.de](mailto:paavo.sattler@tu-dortmund.de){.primary-button data-goatcounter-click="contact-email-collaboration"}

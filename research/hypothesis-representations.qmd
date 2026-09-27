@@ -1,0 +1,15 @@
+---
+title: "Multiple Contrasts & Hypothesis Representations"
+description: "Research on multiple contrast procedures and representations of linear hypotheses."
+---
+
+I study structured multiple inference problems, with a particular interest in multiple contrast procedures and in how different representations of the same hypothesis can influence statistical inference.
+
+Different matrices may represent the same scientific hypothesis while interacting differently with quadratic-form-based procedures. This creates both statistical and computational questions, including opportunities to reduce unnecessary complexity.
+
+## Related Work
+
+- Sattler, Pauly & Munko (2026), *Quadratic form based multiple contrast tests for comparison of group means*
+- Sattler & Rosenbaum (2025), *Choice of the hypothesis matrix for using the Anova-type-statistic*
+- Sattler & Zimmermann (2024), *Choice of the hypothesis matrix for using the Wald-type-statistic*
+- [HypoShrink](../software/hyposhrink.qmd)

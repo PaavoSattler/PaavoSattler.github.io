@@ -1,0 +1,20 @@
+---
+title: "Resampling & Randomization-Based Inference"
+description: "Research on bootstrap, permutation and randomization-based inference."
+---
+
+I work on resampling-based methods for complex statistical designs, including bootstrap, permutation, and randomization procedures.
+
+A current focus concerns inference for relative effects in repeated-measures and factorial settings with incomplete observations.
+
+## Recent Work
+
+**Dobler, Kuhn, Amro & Sattler (2026)**  
+*Generalized multivariate Mann-Whitney-\(U\) tests and confidence regions for relative effects under random missingness*  
+[arXiv:2609.07435](https://arxiv.org/abs/2609.07435){data-goatcounter-click="arxiv-dobler-2026-detail"}
+
+## Related Work
+
+- Rubarth et al. (2022), *Estimation and testing of Wilcoxon-Mann-Whitney effects in factorial clustered data designs*
+- Thiel et al. (2026), *Resampling NANCOVA: Nonparametric analysis of covariance in small samples*
+- Munko & Sattler (2026), *Covariance Correction for Permutation Statistics in Multiple Testing Problems*

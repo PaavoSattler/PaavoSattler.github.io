@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://paavosattler.github.io/sitemap.xml

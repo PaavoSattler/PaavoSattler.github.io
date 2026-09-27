@@ -1,0 +1,15 @@
+---
+title: "Covariance & Correlation Structures"
+description: "Research on statistical inference for covariance and correlation matrices and structures."
+---
+
+I develop inference procedures for hypotheses concerning covariance and correlation structures in general multivariate designs, including comparisons between groups and testing for specific patterns or structural restrictions.
+
+This research line connects methodology for general covariance hypotheses, correlation matrices, structured patterns, and statistical software.
+
+## Related Work
+
+- Sattler, Bathke & Pauly (2022), *Testing hypotheses about covariance matrices in general MANOVA designs*
+- Sattler & Pauly (2023), *Testing hypotheses about correlation matrices in general MANOVA designs*
+- Sattler & Dobler (2026), *Testing for patterns and structures in covariance and correlation matrices*
+- [CovCorTest](../software/covcortest.qmd)

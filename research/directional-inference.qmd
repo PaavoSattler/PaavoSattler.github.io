@@ -1,0 +1,23 @@
+---
+title: "Directional & One-Sided Inference"
+description: "Research on directional, one-sided and superiority hypotheses."
+---
+
+Current work focuses on statistical methodology for directional and superiority hypotheses in multivariate settings. The aim is to move beyond testing for mere differences and to address questions in which the direction or superiority of an effect is scientifically relevant, with a particular focus on biostatistical applications.
+
+This research is connected to structured linear hypotheses, multiple contrast procedures, and the representation of hypotheses.
+
+## Related Work
+
+- Sattler, Pauly & Munko (2026), *Quadratic form based multiple contrast tests for comparison of group means*
+- Sattler & Rosenbaum (2025), *Choice of the hypothesis matrix for using the Anova-type-statistic*
+- [HypoShrink](../software/hyposhrink.qmd)
+
+## Funded Research
+
+**DFG research project · planned start 2027**
+
+*Überlegenheit statt bloßer Ungleichheit: Multivariate Inferenz für gerichtete Effekte in der Biostatistik*  
+(*Superiority rather than mere inequality: Multivariate inference for directional effects in biostatistics*)
+
+Technical details from ongoing unpublished work are intentionally kept off the public website until they are available in a preprint or publication.

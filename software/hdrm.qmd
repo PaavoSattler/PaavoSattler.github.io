@@ -1,0 +1,36 @@
+---
+title: "hdrm"
+description: "R package for high-dimensional repeated-measures inference."
+---
+
+## High-Dimensional Repeated-Measures Inference
+
+High-dimensional repeated-measures data arise when multiple outcomes or measurement occasions are observed for each experimental unit while the available sample size remains comparatively small. Classical multivariate procedures can become difficult or inappropriate in such settings.
+
+**hdrm** provides implementations of inference procedures for high-dimensional repeated-measures and split-plot designs. The package brings together methodology developed across several related contributions and makes these procedures accessible for practical analysis in R.
+
+## What can hdrm be used for?
+
+- inference in high-dimensional repeated-measures designs
+- split-plot and factorial designs with multivariate observations
+- testing general linear hypotheses
+- settings in which dimension may be large relative to sample size
+- quadratic-form-based inference for complex repeated-measures settings
+
+## Installation
+
+The final website is planned to link to CRAN once `hdrm` is released there. The current development repository is available on GitHub.
+
+[Development repository](https://github.com/Schnieboli/hdrm){data-goatcounter-click="hdrm-github-detail"}
+
+<!-- TODO before launch: add the final CRAN installation command and CRAN URL once released. -->
+
+## Related Research
+
+- Sattler & Pauly (2018), *Inference for high-dimensional split-plot-designs: A unified approach for small to large numbers of factor levels*
+- Sattler (2021), *A comprehensive treatment of quadratic-form-based inference in repeated measures designs under diverse asymptotics*
+- Sattler & Hichert, *Inference for high dimensional repeated measure designs with the R package hdrm*
+
+### From Methodology to Software
+
+`hdrm` brings together methodology developed across several papers on high-dimensional repeated-measures inference and provides a unified implementation for applied use.

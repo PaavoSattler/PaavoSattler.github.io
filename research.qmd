@@ -1,0 +1,73 @@
+---
+title: "Research"
+description: "Research areas and current projects of Paavo Sattler."
+image: images/og-card.png
+---
+
+My research focuses on statistical methodology for complex and high-dimensional data. I am particularly interested in nonparametric and resampling-based inference, structured and directional hypotheses, multiple testing, and statistical computing.
+
+A recurring theme in my work is the interaction between mathematical structure, statistical methodology, and practical implementation.
+
+## Research Topics
+
+### Directional & One-Sided Inference
+
+I am working on statistical methodology for directional and superiority hypotheses, with a particular interest in multivariate settings, structured hypotheses, and biostatistical applications.
+
+**Related work:** quadratic-form-based multiple contrast testing, hypothesis representations, HypoShrink, and my DFG-funded research project.
+
+[More on directional inference →](research/directional-inference.qmd)
+
+### Multiple Contrasts & Hypothesis Representations
+
+I study structured multiple inference problems, with a particular interest in multiple contrast procedures and in how different representations of the same hypothesis can influence statistical inference.
+
+**Related work:** Sattler, Pauly & Munko (2026); Sattler & Rosenbaum (2025); Sattler & Zimmermann (2024); HypoShrink.
+
+[More on hypothesis representations →](research/hypothesis-representations.qmd)
+
+### Covariance & Correlation Structures
+
+I develop inference procedures for hypotheses concerning covariance and correlation structures in general multivariate designs, including comparisons between groups and testing for specific patterns or structural restrictions.
+
+**Related work:** Sattler, Bathke & Pauly (2022); Sattler & Pauly (2023); Sattler & Dobler (2026); CovCorTest.
+
+[More on covariance and correlation structures →](research/covariance-correlation.qmd)
+
+### High-Dimensional Repeated Measures
+
+I work on statistical inference for high-dimensional repeated-measures and split-plot designs, including settings with complex dependence structures.
+
+**Related work:** Sattler & Pauly (2018); Sattler (2021); Sattler & Kumar (2026); hdrm.
+
+[More on high-dimensional repeated measures →](research/high-dimensional-repeated-measures.qmd)
+
+### Resampling & Randomization-Based Inference
+
+I work on resampling-based methods for complex statistical designs, including bootstrap, permutation, and randomization procedures. A current focus is on inference for relative effects in repeated-measures and factorial settings, particularly when observations may be incomplete.
+
+**Related work:** Rubarth et al. (2022); Thiel et al. (2026); Munko & Sattler (2026); Dobler, Kuhn, Amro & Sattler (2026).
+
+[More on resampling and randomization-based inference →](research/resampling-randomization.qmd)
+
+## Current Projects
+
+### Directional & One-Sided Inference
+
+Current work focuses on statistical methodology for directional and superiority hypotheses in multivariate settings. The aim is to move beyond testing for mere differences and to address questions in which the direction or superiority of an effect is scientifically relevant, with a particular focus on biostatistical applications.
+
+**DFG-funded research project · planned start 2027**
+
+### Randomization-Based Inference with Missing Data
+
+A current research direction concerns randomization-based inference for relative effects in repeated-measures and factorial designs with incomplete observations. The project investigates how missingness can be incorporated into the inferential procedure while retaining the advantages of randomization-based methods.
+
+[Generalized multivariate Mann–Whitney-\(U\) tests and confidence regions for relative effects under random missingness](https://arxiv.org/abs/2609.07435){data-goatcounter-click="arxiv-dobler-2026-research"}
+
+### Combined Parameters
+
+Another ongoing project considers inference for statistical parameters that combine different aspects of a distribution or different effect measures. The project investigates how such combined parameters can be incorporated into a coherent inferential framework.
+
+### Covariate Adjustment for Nonparametric Effects
+
+Building on existing NANCOVA methodology, current work extends covariate-adjusted inference to Mann–Whitney effects. The project studies how covariate information can be incorporated into inference for these effects in complex designs.

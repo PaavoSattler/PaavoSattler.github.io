@@ -1,0 +1,40 @@
+---
+title: "Software"
+description: "Statistical software and R packages by Paavo Sattler."
+image: images/og-card.png
+---
+
+Software development is an integral part of my methodological research. The packages below provide implementations of statistical methods developed in my work and make them available for practical data analysis.
+
+::: {.software-grid}
+::: {.software-card}
+### CovCorTest
+**Inference for Covariance and Correlation Structures**
+
+An R package for testing general hypotheses about covariance and correlation matrices in multivariate designs. It supports comparisons between groups as well as inference for specified structures and patterns.
+
+[CRAN](https://CRAN.R-project.org/package=CovCorTest){data-goatcounter-click="software-cran-covcortest-page"} ·
+[GitHub](https://github.com/sjedhoff/CovCorTest){data-goatcounter-click="software-github-covcortest"} ·
+[Details](software/covcortest.qmd)
+:::
+
+::: {.software-card}
+### hdrm
+**High-Dimensional Repeated-Measures Inference**
+
+An R package implementing methodology for statistical inference in high-dimensional repeated-measures and split-plot designs.
+
+[Details](software/hdrm.qmd)
+:::
+
+::: {.software-card}
+### HypoShrink
+**Simplifying Linear Hypotheses for Efficient Inference**
+
+An R package for simplifying and comparing linear hypotheses in quadratic-form-based inference.
+
+[GitHub](https://github.com/PaavoSattler/HypoShrink){data-goatcounter-click="software-github-hyposhrink-page"} ·
+[Zenodo DOI](https://doi.org/10.5281/zenodo.17214498){data-goatcounter-click="software-doi-hyposhrink-page"} ·
+[Details](software/hyposhrink.qmd)
+:::
+:::

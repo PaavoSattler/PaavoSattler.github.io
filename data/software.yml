@@ -1,0 +1,21 @@
+covcortest:
+  name: "CovCorTest"
+  subtitle: "Inference for Covariance and Correlation Structures"
+  cran: "https://CRAN.R-project.org/package=CovCorTest"
+  github: "https://github.com/sjedhoff/CovCorTest"
+  status: "CRAN"
+
+hdrm:
+  name: "hdrm"
+  subtitle: "High-Dimensional Repeated-Measures Inference"
+  cran: null
+  github: "https://github.com/Schnieboli/hdrm"
+  status: "development"
+  note: "Do not advertise group-specific dimensions as a package feature. Replace/add CRAN link once released."
+
+hyposhrink:
+  name: "HypoShrink"
+  subtitle: "Simplifying Linear Hypotheses for Efficient Inference"
+  github: "https://github.com/PaavoSattler/HypoShrink"
+  doi: "https://doi.org/10.5281/zenodo.17214498"
+  status: "GitHub/Zenodo"
