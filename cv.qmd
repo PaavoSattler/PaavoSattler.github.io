@@ -1,14 +1,19 @@
 ---
 title: "Curriculum Vitae"
-description: "Academic curriculum vitae of Paavo Sattler."
+description: "Academic profile and curriculum vitae of Paavo Sattler."
 image: images/og-card.png
 ---
 
-## Paavo Sattler
+## Short Bio
 
-**Researcher in Statistics**  
-TU Dortmund University · RWTH Aachen University  
-[paavo.sattler@tu-dortmund.de](mailto:paavo.sattler@tu-dortmund.de) · [ORCID](https://orcid.org/0000-0001-8731-0893) · [Google Scholar](https://scholar.google.de/citations?user=MXSrCMkAAAAJ) · [GitHub](https://github.com/PaavoSattler)
+Paavo Sattler is a researcher in statistics working on methodological problems in multivariate, high-dimensional, and nonparametric inference. He is currently a researcher at TU Dortmund University and RWTH Aachen University. His research interests include structured and directional hypotheses, multiple testing, resampling-based methods, covariance and correlation structures, and statistical computing. A recurring theme in his work is the development of methods that connect mathematical questions with practical statistical inference and software implementation.
+
+He received his doctorate in statistics from TU Dortmund University in 2021 with a thesis on inference for multivariate and high-dimensional data in heterogeneous designs. In 2024, he held an interim professorship in Mathematical Statistics at Heidelberg University. His current work includes methodological research, software development, and collaborations in which existing statistical methods can be applied, adapted, or extended to new problems.
+
+[Email](mailto:paavo.sattler@tu-dortmund.de) ·
+[ORCID](https://orcid.org/0000-0001-8731-0893) ·
+[Google Scholar](https://scholar.google.de/citations?user=MXSrCMkAAAAJ) ·
+[GitHub](https://github.com/PaavoSattler)
 
 ## Research Interests
 
@@ -29,11 +34,14 @@ Institute of Statistics and Economic Mathematics
 **April–August 2024 — Interim Professorship in Mathematical Statistics**  
 Heidelberg University, Faculty of Mathematics and Computer Science
 
-**December 2021–March 2024 — Researcher, TU Dortmund University**
+**December 2021–March 2024 — Researcher, TU Dortmund University**  
+Department of Statistics
 
-**March 2019–October 2021 — Doctoral Researcher, TU Dortmund University**
+**March 2019–October 2021 — Doctoral Researcher, TU Dortmund University**  
+Department of Statistics
 
-**September 2016–February 2019 — Doctoral Researcher, Ulm University**
+**September 2016–February 2019 — Doctoral Researcher, Ulm University**  
+Institute of Statistics
 
 ## Education
 
@@ -56,34 +64,58 @@ Principal investigator · 36 months · planned start July 2027
 **2018 — Joachim Hartung Prize**  
 Awarded for the presentation *Inference for high-dimensional split-plot designs: A unified approach for small to large numbers of factor levels*
 
+## Teaching & Supervision
+
+### Selected Teaching Experience
+
+- **Mathematics of Data Science** — Master level
+- **Six Sigma Methods** — Master level
+- **Introduction to Probability Theory and Statistics** — Bachelor level
+- **Seminar in Multivariate Probability and Statistics** — Bachelor level
+- **Reading Course in Statistical Inference** — Master level
+- **Nonparametric Statistics** — Master level
+
+### Supervision
+
+**2024–present — Co-supervision of a PhD project**  
+*Semi- and Nonparametric Analysis of Covariance*  
+in collaboration with Prof. Markus Pauly
+
+**Selected Bachelor’s Theses**
+
+- *A Software Package for High-Dimensional Repeated Measures* — 2024
+- *Testing One-Sided Hypotheses Using Quadratic Forms* — 2023
+- *Linear Shrinkage Estimators for High-Dimensional Quadratic-Form Methods* — 2022
+
+## Academic Service & Activities
+
+**2026 — International Workshop: Multivariate and Functional Data Analysis in Biostatistics**  
+Aachen · Co-organized with Dennis Dobler, J. Feifel and M. Munko · Supported by the German Region of the International Biometric Society
+
+**2026 — Invited Session: Multiple Tests Beyond Parametric Assumptions**  
+CEN, Warsaw · Organizer
+
+**2024 — Session: Inference in the Life and Social Sciences for Small Sample Sizes with Little or No Assumptions**  
+Bernoulli–IMS 11th World Congress, Bochum · Organizer
+
+**2024 — Learning Session: Covariate Adjustment in Quantile Regression**  
+Co-organized with M. Baumeister and K. Thiel · Supported by the DMV Young Talent Promotion program
+
+**2022 — Summer School “Resampling”**  
+German Region of the International Biometric Society, Strobl · Lecturer
+
+### Professional Service
+
+Spokesperson of the Working Group **“Nonparametric Methods”** of the German Region of the International Biometric Society.
+
+Reviewer for international statistical journals including *The R Journal, Metrika, Biometrical Journal, Statistical Papers, Journal of Applied Statistics,* and *Scandinavian Journal of Statistics*.
+
 ## Software
 
 - **CovCorTest** — statistical tests for covariance and correlation matrices and their structures. [CRAN](https://CRAN.R-project.org/package=CovCorTest)
-- **hdrm** — high-dimensional repeated-measures inference. CRAN link to be added after release.
-- **HypoShrink** — companion hypothesis matrices and computationally efficient hypothesis representations. [GitHub](https://github.com/PaavoSattler/HypoShrink) · [DOI](https://doi.org/10.5281/zenodo.17214498)
-
-## Selected Academic Service & Activities
-
-- 2026 — Co-organization, International Workshop *Multivariate and Functional Data Analysis in Biostatistics*, Aachen
-- 2026 — Organizer, Invited Session *Multiple Tests Beyond Parametric Assumptions*, CEN, Warsaw
-- 2024 — Organizer, Session *Inference in the Life and Social Sciences for Small Sample Sizes with Little or No Assumptions*, Bernoulli–IMS 11th World Congress, Bochum
-- 2024 — Co-organization, Learning Session *Covariate Adjustment in Quantile Regression*
-- 2022 — Lecturer, Summer School *Resampling*, German Region of the International Biometric Society, Strobl
-- Spokesperson of the Working Group **Nonparametric Methods**, German Region of the International Biometric Society
-- Reviewer for international statistical journals
-
-## Teaching & Supervision
-
-Selected teaching includes Mathematics of Data Science, Six Sigma Methods, Introduction to Probability Theory and Statistics, Multivariate Probability and Statistics, Reading Course in Statistical Inference, and Nonparametric Statistics.
-
-Since 2024, co-supervision of a PhD project on semi- and nonparametric analysis of covariance. Previous supervision includes bachelor theses on high-dimensional repeated-measures software, one-sided hypotheses using quadratic forms, and shrinkage estimators for high-dimensional quadratic-form methods.
+- **hdrm** — high-dimensional repeated-measures inference.
+- **HypoShrink** — simplifying linear hypotheses for efficient inference. [GitHub](https://github.com/PaavoSattler/HypoShrink) · [DOI](https://doi.org/10.5281/zenodo.17214498)
 
 ## Publications
 
 See the [complete publication list](publications.qmd) and [Google Scholar](https://scholar.google.de/citations?user=MXSrCMkAAAAJ).
-
-<!--
-This web CV deliberately excludes private address, private phone number,
-date of birth, place of birth, and school information.
-A separate PDF can be generated later from a dedicated public CV source.
--->

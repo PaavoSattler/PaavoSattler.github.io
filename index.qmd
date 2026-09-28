@@ -21,7 +21,7 @@ My research develops statistical methodology for complex multivariate and high-d
 [Google Scholar](https://scholar.google.de/citations?user=MXSrCMkAAAAJ){data-goatcounter-click="profile-google-scholar"}
 [ORCID](https://orcid.org/0000-0001-8731-0893){data-goatcounter-click="profile-orcid"}
 [GitHub](https://github.com/PaavoSattler){data-goatcounter-click="profile-github"}
-[CV](about.qmd#cv){data-goatcounter-click="profile-cv"}
+[CV](cv.qmd){data-goatcounter-click="profile-cv"}
 [Email](mailto:paavo.sattler@tu-dortmund.de){data-goatcounter-click="contact-email-home"}
 :::
 :::
@@ -38,22 +38,22 @@ My research develops statistical methodology for complex multivariate and high-d
 ::: {.topic-grid}
 ::: {.research-topic}
 ### Multivariate & High-Dimensional Inference
-I develop methods for inference in complex multivariate settings, including repeated-measures designs, covariance and correlation structures, and high-dimensional data where classical low-dimensional procedures may no longer be appropriate.
+Inference for complex multivariate settings, repeated-measures designs, covariance and correlation structures, and high-dimensional data.
 :::
 
 ::: {.research-topic}
 ### Nonparametric & Resampling-Based Inference
-A central part of my work concerns statistical procedures that rely on comparatively weak distributional assumptions, including bootstrap, permutation, and randomization-based methods for heterogeneous and complex designs.
+Methods based on comparatively weak distributional assumptions, including bootstrap, permutation, and randomization procedures.
 :::
 
 ::: {.research-topic}
 ### Structured, Multiple & Directional Hypotheses
-I am interested in statistical inference for structured hypotheses, multiple comparisons, and directional or one-sided alternatives. This includes multiple contrast procedures as well as questions concerning the representation and geometry of statistical hypotheses.
+Inference for structured hypotheses, multiple comparisons, and directional or one-sided alternatives.
 :::
 
 ::: {.research-topic}
 ### Statistical Computing
-Methodological developments are most useful when they can actually be applied. I therefore also work on efficient implementations and statistical software that make new procedures accessible for practical data analysis.
+Efficient implementations and statistical software that turn methodological developments into practical tools.
 :::
 :::
 
@@ -65,29 +65,39 @@ Methodological developments are most useful when they can actually be applied. I
 
 ::: {.project-grid}
 ::: {.project-card}
+![](images/current-research/website-1.png){.project-visual alt="Directional and one-sided inference illustrated by a constrained parameter region"}
+
 ### Directional & One-Sided Inference
-Current work focuses on statistical methodology for directional and superiority hypotheses in multivariate settings. The aim is to move beyond testing for mere differences and to address questions in which the direction or superiority of an effect is scientifically relevant, with a particular focus on biostatistical applications.
+Methods for directional and superiority hypotheses in multivariate settings, especially when the sign, ordering, or superiority of an effect is scientifically relevant.
 
 <span class="project-label">DFG-funded project · planned start 2027</span>
 :::
 
 ::: {.project-card}
+![](images/current-research/website-2.png){.project-visual alt="Randomization-based inference with a data matrix containing missing values"}
+
 ### Randomization-Based Inference with Missing Data
-A current research direction concerns randomization-based inference for relative effects in repeated-measures and factorial designs with incomplete observations. Recent work accounts for the stochastic variability introduced by missing observations and combines this with randomization-based inference.
+Randomization-based inference for relative effects under incomplete observations, including repeated-measures and factorial settings.
 
 [Dobler, Kuhn, Amro & Sattler (2026) →](https://arxiv.org/abs/2609.07435){data-goatcounter-click="arxiv-dobler-2026"}
 :::
 
 ::: {.project-card}
+![](images/current-research/website-3.png){.project-visual alt="Different statistical parameters combined for joint inference"}
+
 ### Combined Parameters
-Another ongoing project considers inference for statistical parameters that combine different aspects of a distribution or different effect measures. The project investigates how such combined parameters can be incorporated into a coherent inferential framework.
+Joint inference for parameters that combine different distributional characteristics or effect measures within a common framework.
 :::
 
 ::: {.project-card}
+![](images/current-research/website-4.png){.project-visual alt="Covariate information incorporated into an adjusted nonparametric effect"}
+
 ### Covariate Adjustment for Nonparametric Effects
-Building on existing NANCOVA methodology, current work extends covariate-adjusted inference to Mann–Whitney effects. The project studies how covariate information can be incorporated into inference for these effects in complex designs.
+Extensions of NANCOVA methodology to covariate-adjusted inference for Mann–Whitney effects in complex designs.
 :::
 :::
+
+[More on current research →](research.qmd#current-projects){.section-link}
 :::
 
 ::: {.content-block}
@@ -193,6 +203,24 @@ Provides a unified framework for inference in high-dimensional split-plot design
 [View all publications →](publications.qmd){.section-link}
 :::
 
+::: {.content-block}
+## Teaching & Supervision
+
+::: {.teaching-grid}
+::: {.teaching-card}
+### Teaching
+Selected teaching at Bachelor’s and Master’s level includes Mathematics of Data Science, Nonparametric Statistics, Six Sigma Methods, Introduction to Probability Theory and Statistics, and courses in multivariate statistics and statistical inference.
+:::
+
+::: {.teaching-card}
+### Supervision
+Since 2024, I co-supervise a PhD project on semi- and nonparametric analysis of covariance. I have also supervised Bachelor’s theses on high-dimensional repeated-measures software, one-sided hypotheses, and shrinkage methods.
+:::
+:::
+
+[View full CV →](cv.qmd){.section-link data-goatcounter-click="cv-home-teaching"}
+:::
+
 ::: {.content-block .philosophy-section}
 ## Research Philosophy
 
@@ -208,26 +236,9 @@ This curiosity about mathematical and statistical phenomena, together with the p
 :::
 
 ::: {.content-block .collaboration-home}
-## Interested in collaboration?
+## Collaboration
 
-I am interested in research collaborations that connect statistical methodology with substantive scientific problems and create opportunities to apply, adapt, or further develop existing methods.
+I am interested in research collaborations that connect statistical methodology with substantive scientific problems, especially where existing methods or software provide a useful starting point for application, adaptation, or further methodological development.
 
-::: {.collab-primary}
-### Applications and Extensions of Methods & Software
-I am particularly interested in projects where methods or software from my previous work provide a useful starting point for an existing statistical problem. This may involve direct application, but also targeted adaptations or methodological extensions when the original framework does not fully match the problem at hand. Such collaborations can support substantive research while also revealing new questions and opportunities for further methodological development.
-:::
-
-::: {.collab-grid}
-::: {.collab-card}
-### Integration into Broader Methodological Frameworks
-I am also interested in collaborations that place individual methods, software packages, or research ideas within a broader methodological or scientific context. This may involve integrating existing approaches into larger frameworks, combining them with other methods, or embedding them into more comprehensive software and analysis workflows.
-:::
-
-::: {.collab-card}
-### Methodological Collaboration
-More generally, I am open to research collaborations in areas closely related to my methodological interests, particularly when statistical questions form an integral part of the scientific problem and benefit from a deeper methodological perspective.
-:::
-:::
-
-[Get in touch →](mailto:paavo.sattler@tu-dortmund.de){.primary-button data-goatcounter-click="contact-email-collaboration-home"}
+[Explore collaboration opportunities →](collaboration.qmd){.primary-button}
 :::

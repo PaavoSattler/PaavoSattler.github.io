@@ -7,7 +7,6 @@ project:
     - publications.qmd
     - software.qmd
     - collaboration.qmd
-    - about.qmd
     - cv.qmd
     - privacy.qmd
     - legal.qmd
@@ -32,8 +31,8 @@ website:
         text: Software
       - href: collaboration.qmd
         text: Collaboration
-      - href: about.qmd
-        text: About
+      - href: cv.qmd
+        text: CV
   page-footer:
     left: "© Paavo Sattler"
     center: "TU Dortmund University · RWTH Aachen University"
